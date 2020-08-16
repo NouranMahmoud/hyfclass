@@ -1,0 +1,12 @@
+Few of bash commands I like:
+
+$ mkdir <-- making new directory. this probably going to be my most often used command, this is way faster than using mouse.
+
+
+My favourite so far:
+
+$touch index.html; touch style.css; code . <--- this allows me in one line of command to create all the files needed for doing homework and open it in VSC.
+
+And lastly
+
+$clear <---- cleaning the log of previously used commands, as no one wants to look at all the mess inside CLI :)
