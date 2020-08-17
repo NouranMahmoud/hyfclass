@@ -1,0 +1,14 @@
+
+git status  it will let you know what has been added to the staging area.
+
+==========================================================
+
+Git log this it my favourite because it will tell you exactly all the info that's been changed in detail. 
+
+==========================================================
+
+git log --online its the same as well but will make it in one line or less detailed.
+
+==========================================================
+
+git add . Is really nice as well since it will just take everything and put it in the staging area instead of naming each file if this command did not exist.
