@@ -1,0 +1,7 @@
+* git log                          >> Showa a log of the commits history
+* git log --graph                  >> shows the log with an ASCII graph for branching visual reference
+* git add <file or directory name> >> adds filed or folders to the staging area
+* git status                       >> returns the current state of the repository
+* git branch                       >> shows all the branches in the repository
+* git chckout <branch name>        >> go to <branch name>
+* git checkout -b <branch name>    >> create a new branch and checkout to it
