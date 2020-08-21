@@ -1,0 +1,11 @@
+- Git log .... an important command which helps you to check the last changes which have been made
+
+- Git status ..... a command which helps you to see the files those are now in the staging area
+
+- Git diff ..... a command which helps you to check the changes that has been made on a file
+
+- Git branch ..... this command will show you all the branches exsisted
+
+- Git config .... command to set your own setting
+
+- Git ssh-keygen ... command to create a public and private key
